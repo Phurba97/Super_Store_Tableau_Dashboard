@@ -1,5 +1,6 @@
 **Superstore Sales Analytics Dashboard | Tableau
 **
+https://public.tableau.com/app/profile/phurba.doma.sherpa/viz/TableauAssignmentSolution_17777981278310/Assignment7
 
 An interactive Tableau dashboard built using the Sample Superstore dataset to analyze business performance across Sales, Profit, and Orders. The dashboard provides an executive overview with KPI cards, category and sub-category analysis, geographic insights, customer segment distribution, top-performing products, and sales trends. Users can dynamically switch between metrics and apply Region and Year filters for deeper analysis.
 
